@@ -1,0 +1,243 @@
+{
+    "Monday": [{
+            "Sales": 120.0,
+            "Product": "Canned Mushroom"
+        }, {
+            "Sales": 90.0,
+            "Product": "Canned Sausage"
+        }, {
+            "Sales": 160.0,
+            "Product": "Canned Pineapple"
+        }, {
+            "Sales": 130.0,
+            "Product": "Canned Beans"
+        }, {
+            "Sales": 110.0,
+            "Product": "Canned Peas"
+        }, {
+            "Sales": 100.0,
+            "Product": "Corned Pork"
+        }, {
+            "Sales": 100.0,
+            "Product": "Canned Grind Pork"
+        }, {
+            "Sales": 100.0,
+            "Product": "Testing ProducName"
+        }, {
+            "Sales": 200.0,
+            "Product": "Product Test New Item"
+        }, {
+            "Sales": 200.0,
+            "Product": "Unit test"
+        }],
+    "Thursday": [],
+    "Friday": [{
+            "Sales": 190.0,
+            "Product": "Canned Pork"
+        }, {
+            "Sales": 120.0,
+            "Product": "Canned Mackerel"
+        }, {
+            "Sales": 140.0,
+            "Product": "Canned Green Beans"
+        }, {
+            "Sales": 170.0,
+            "Product": "Canned Mushrooms"
+        }, {
+            "Sales": 100.0,
+            "Product": "Canned Okra"
+        }],
+    "Sunday": [{
+            "Sales": 80.0,
+            "Product": "Canned Beans"
+        }],
+    "Wednesday": [{
+            "Sales": 190.0,
+            "Product": "Canned Tomatoes"
+        }, {
+            "Sales": 100.0,
+            "Product": "Canned Lentils"
+        }, {
+            "Sales": 120.0,
+            "Product": "Canned Curry"
+        }, {
+            "Sales": 160.0,
+            "Product": "Canned Macaroni"
+        }],
+    "Tuesday": [{
+            "Sales": 180.0,
+            "Product": "Canned Chili"
+        }, {
+            "Sales": 140.0,
+            "Product": "Canned Hotdog"
+        }, {
+            "Sales": 200.0,
+            "Product": "Canned Ham"
+        }, {
+            "Sales": 170.0,
+            "Product": "Canned Potatoes"
+        }, {
+            "Sales": 90.0,
+            "Product": "Canned Carrots"
+        }, {
+            "Sales": 80.0,
+            "Product": "Canned Gravy"
+        }, {
+            "Sales": 150.0,
+            "Product": "Canned Pasta"
+        }, {
+            "Sales": 200.0,
+            "Product": "Canned Fruit Cocktail"
+        }, {
+            "Sales": 110.0,
+            "Product": "Canned Apple Sauce"
+        }, {
+            "Sales": 70.0,
+            "Product": "Canned Beef Stew"
+        }],
+    "Rank": [{
+            "Sales": 210.0,
+            "Product": "Canned Beans",
+            "Rank": 1
+        }, {
+            "Sales": 200.0,
+            "Product": "Product Test New Item",
+            "Rank": 2
+        }, {
+            "Sales": 200.0,
+            "Product": "Canned Ham",
+            "Rank": 3
+        }, {
+            "Sales": 200.0,
+            "Product": "Canned Fruit Cocktail",
+            "Rank": 4
+        }, {
+            "Sales": 200.0,
+            "Product": "Unit test",
+            "Rank": 5
+        }, {
+            "Sales": 190.0,
+            "Product": "Canned Pork",
+            "Rank": 6
+        }, {
+            "Sales": 190.0,
+            "Product": "Canned Carrots",
+            "Rank": 7
+        }, {
+            "Sales": 190.0,
+            "Product": "Canned Peas",
+            "Rank": 8
+        }, {
+            "Sales": 190.0,
+            "Product": "Canned Tomatoes",
+            "Rank": 9
+        }, {
+            "Sales": 180.0,
+            "Product": "Canned Chili",
+            "Rank": 10
+        }, {
+            "Sales": 170.0,
+            "Product": "Canned Potatoes",
+            "Rank": 11
+        }, {
+            "Sales": 170.0,
+            "Product": "Canned Mushrooms",
+            "Rank": 12
+        }, {
+            "Sales": 160.0,
+            "Product": "Canned Pineapple",
+            "Rank": 13
+        }, {
+            "Sales": 160.0,
+            "Product": "Canned Macaroni",
+            "Rank": 14
+        }, {
+            "Sales": 150.0,
+            "Product": "Canned Spaghetti Sauce",
+            "Rank": 15
+        }, {
+            "Sales": 150.0,
+            "Product": "Canned Pasta",
+            "Rank": 16
+        }, {
+            "Sales": 140.0,
+            "Product": "Canned Hotdog",
+            "Rank": 17
+        }, {
+            "Sales": 140.0,
+            "Product": "Canned Green Beans",
+            "Rank": 18
+        }, {
+            "Sales": 140.0,
+            "Product": "Canned Baked Beans",
+            "Rank": 19
+        }, {
+            "Sales": 130.0,
+            "Product": "Canned Pickles",
+            "Rank": 20
+        }, {
+            "Sales": 120.0,
+            "Product": "Canned Curry",
+            "Rank": 21
+        }, {
+            "Sales": 120.0,
+            "Product": "Canned Mackerel",
+            "Rank": 22
+        }, {
+            "Sales": 120.0,
+            "Product": "Canned Mushroom",
+            "Rank": 23
+        }, {
+            "Sales": 110.0,
+            "Product": "Canned Apple Sauce",
+            "Rank": 24
+        }, {
+            "Sales": 100.0,
+            "Product": "Testing ProducName",
+            "Rank": 25
+        }, {
+            "Sales": 100.0,
+            "Product": "Canned Grind Pork",
+            "Rank": 26
+        }, {
+            "Sales": 100.0,
+            "Product": "Corned Pork",
+            "Rank": 27
+        }, {
+            "Sales": 100.0,
+            "Product": "Canned Lentils",
+            "Rank": 28
+        }, {
+            "Sales": 100.0,
+            "Product": "Canned Okra",
+            "Rank": 29
+        }, {
+            "Sales": 90.0,
+            "Product": "Canned Sausage",
+            "Rank": 30
+        }, {
+            "Sales": 80.0,
+            "Product": "Canned Gravy",
+            "Rank": 31
+        }, {
+            "Sales": 70.0,
+            "Product": "Canned Beef Stew",
+            "Rank": 32
+        }],
+    "Saturday": [{
+            "Sales": 80.0,
+            "Product": "Canned Peas"
+        }, {
+            "Sales": 100.0,
+            "Product": "Canned Carrots"
+        }, {
+            "Sales": 150.0,
+            "Product": "Canned Spaghetti Sauce"
+        }, {
+            "Sales": 140.0,
+            "Product": "Canned Baked Beans"
+        }, {
+            "Sales": 130.0,
+            "Product": "Canned Pickles"
+        }]
+}
