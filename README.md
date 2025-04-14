@@ -12,5 +12,12 @@ Section:1 A
 Start Date: March 23, 2025
 End Date: April 11, 2025
 
+Needed Jar File:
+
+json.jar
+commons-math3-3.6.1.jar
+jcommon-10.23.jar
+jfreechart-1.0.19.jar
+
 
 
